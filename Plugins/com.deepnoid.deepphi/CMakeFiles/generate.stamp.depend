@@ -1,0 +1,17 @@
+# CMake generation dependency list for this directory.
+J:/DEEP-PHI/Plugins/com.deepnoid.deepphi/CMakeLists.txt
+J:/DEEP-PHI/Plugins/com.deepnoid.deepphi/files.cmake
+J:/DEEP-PHI/Plugins/com.deepnoid.deepphi/manifest_headers.cmake
+J:/DEEP-PHI/Plugins/com.deepnoid.deepphi/manifest_headers.cmake
+J:/Qt/5.4/msvc2013_opengl/lib/cmake/Qt5LinguistTools/Qt5LinguistToolsConfigVersion.cmake
+J:/Qt/5.4/msvc2013_opengl/lib/cmake/Qt5LinguistTools/Qt5LinguistToolsConfig.cmake
+J:/Qt/5.4/msvc2013_opengl/lib/cmake/Qt5LinguistTools/Qt5LinguistToolsMacros.cmake
+J:/MITK-2016.03.0-src/Modules/CppMicroServices/cmake/CMakeParseArguments.cmake
+J:/M/ep/src/CTK/Libs/ctkExport.h.in
+J:/M/ep/src/CTK/CMake/MANIFEST.MF.in
+J:/M/ep/src/CTK/CMake/plugin_manifest.qrc.in
+J:/DEEP-PHI-build/Plugins/com.deepnoid.deepphi/com_deepnoid_deepphi_manifest.qrc
+J:/DEEP-PHI/Plugins/com.deepnoid.deepphi/resources/icon.xpm
+J:/DEEP-PHI/Plugins/com.deepnoid.deepphi/plugin.xml
+J:/M/ep/src/CTK/CMake/plugin_resources_cached.qrc.in
+J:/DEEP-PHI-build/Plugins/com.deepnoid.deepphi/com_deepnoid_deepphi_cached.qrc

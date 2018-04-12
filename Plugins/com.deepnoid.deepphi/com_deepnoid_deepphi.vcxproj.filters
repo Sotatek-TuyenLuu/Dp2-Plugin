@@ -1,0 +1,65 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Project ToolsVersion="12.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="J:\DEEP-PHI\Plugins\com.deepnoid.deepphi\src\internal\com_deepnoid_deepphi_Activator.cpp">
+      <Filter>== Source Files ==</Filter>
+    </ClCompile>
+    <ClCompile Include="J:\DEEP-PHI\Plugins\com.deepnoid.deepphi\src\internal\MyView.cpp">
+      <Filter>== Source Files ==</Filter>
+    </ClCompile>
+    <ClCompile Include="J:\DEEP-PHI-build\Plugins\com.deepnoid.deepphi\src\internal\moc_com_deepnoid_deepphi_Activator.cpp">
+      <Filter>Generated</Filter>
+    </ClCompile>
+    <ClCompile Include="J:\DEEP-PHI-build\Plugins\com.deepnoid.deepphi\src\internal\moc_MyView.cpp">
+      <Filter>Generated</Filter>
+    </ClCompile>
+    <ClCompile Include="J:\DEEP-PHI-build\Plugins\com.deepnoid.deepphi\qrc_com_deepnoid_deepphi_manifest.cpp">
+      <Filter>Generated</Filter>
+    </ClCompile>
+    <ClCompile Include="J:\DEEP-PHI-build\Plugins\com.deepnoid.deepphi\qrc_com_deepnoid_deepphi_cached.cpp">
+      <Filter>Generated</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="J:\DEEP-PHI\Plugins\com.deepnoid.deepphi\src\internal\com_deepnoid_deepphi_Activator.h">
+      <Filter>== Header Files ==</Filter>
+    </ClInclude>
+    <ClInclude Include="J:\DEEP-PHI\Plugins\com.deepnoid.deepphi\src\internal\MyView.h">
+      <Filter>== Header Files ==</Filter>
+    </ClInclude>
+    <ClInclude Include="J:\DEEP-PHI-build\Plugins\com.deepnoid.deepphi\ui_MyViewControls.h">
+      <Filter>Generated</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="J:\DEEP-PHI\Plugins\com.deepnoid.deepphi\CMakeLists.txt" />
+    <CustomBuild Include="J:\DEEP-PHI-build\CMakeFiles\add0ed78743429122747342e8c0c121e\moc_com_deepnoid_deepphi_Activator.cpp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="J:\DEEP-PHI-build\CMakeFiles\add0ed78743429122747342e8c0c121e\moc_MyView.cpp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="J:\DEEP-PHI\Plugins\com.deepnoid.deepphi\src\internal\MyViewControls.ui">
+      <Filter>QT UI Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="J:\DEEP-PHI-build\Plugins\com.deepnoid.deepphi\com_deepnoid_deepphi_manifest.qrc" />
+    <CustomBuild Include="J:\DEEP-PHI-build\Plugins\com.deepnoid.deepphi\com_deepnoid_deepphi_cached.qrc" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{7A57EF83-EC98-3F89-A102-2610B6A45130}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="== Source Files ==">
+      <UniqueIdentifier>{0533B83B-2769-38CB-8445-2CE8EEEE0C32}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="== Header Files ==">
+      <UniqueIdentifier>{2EB0F533-161B-3E59-932D-AB46AFF1D348}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="QT UI Files">
+      <UniqueIdentifier>{3C71DE96-AB7D-33A0-9D22-6E4316AA82FF}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Generated">
+      <UniqueIdentifier>{8F520ED0-069A-3594-AF2A-09DA0B0A74D6}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
